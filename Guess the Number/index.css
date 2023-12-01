@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.card {
+    margin: 0 auto;
+    display: flex;
+    padding: 1.6rem;
+    margin-top: 15rem;
+}
+
+.data-show {
+    text-align: center;
+    padding: 5.2rem;
+}
+
+.btn {
+    margin: 0 auto;
+    display: flex;
+    margin-left: 6rem;
+}
+
+.card .card-body {
+    padding: 1.3rem;
+}
+
+.card-title-text {
+    padding: 1.2rem;
+    color: black;
+    font-size: 2.3rem;
+}
